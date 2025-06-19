@@ -149,14 +149,157 @@ prd
 
 如果需要，我还可以帮你细化具体模块的功能说明书、用户界面草图，或技术架构文档，随时告诉我！
 
+
 ```
 
 
 
 
+ios description
+
+```
+当然可以，以下是为你的App量身定制的**App Store描述文案**，符合苹果 App Store 的风格要求，突出产品特色、用户价值和科学可信的品牌感：
+
+---
+
+## 📱 App Store – 英文版 Description（国际版）
+
+**App Name**: HerbalSlim – Natural Weight Support
+
+---
+
+**Live Healthier, Naturally.**
+
+HerbalSlim is your intelligent companion for natural, science-backed weight support. Built on 300+ traditional Chinese herbal formulas and modern nutritional science, we bring you personalized supplement and food-based alternatives to help you eat better and stay slim — without needing to understand complex herbs.
+
+---
+
+### ▶ What Makes HerbalSlim Unique?
+
+🧬 **Science-Driven**
+We analyze proven herbal formulas and map their active compounds to natural foods and modern supplements you already know — like green tea, citrus peel, and bitter melon extract.
+
+🥑 **Natural Substitutes**
+No need to source hard-to-find herbs. Discover fruits, vegetables, nuts, or capsule-based products that provide similar benefits — all backed by traditional and modern studies.
+
+👩‍⚕️ **Personalized for You**
+Set your health goals (e.g. fat-burning, digestion, metabolism) and dietary preferences. We’ll generate your own daily supplement & food plan tailored to your needs.
+
+⏱ **Daily Reminders & Tracking**
+Stay on track with simple intake schedules, smart reminders, and effect tracking. Learn what works for your body and adapt your plan in real time.
+
+📚 **Trusted Knowledge Base**
+Learn how each ingredient works, what it’s traditionally used for, and what science says today — with easy, transparent explanations.
+
+🛒 **Shop What You Need**
+Get matched with trusted food-grade supplements or ingredients available in your region. We help you find what’s available — and what’s real.
+
+---
+
+### 🌿 Designed for:
+
+* Wellness seekers exploring natural health
+* People looking for gentle, food-based weight support
+* Users curious about Chinese herbs but unfamiliar with their use
+* Nutritionists and coaches building evidence-based plans
+
+---
+
+### 💬 What Users Say
+
+> “I finally understand what those herbal teas were trying to do — now I get the same effect from food and supplements I trust.”
+
+> “Clean, elegant, and actually helpful. It fits my lifestyle without making me feel like I’m on a diet.”
+
+---
+
+Download HerbalSlim and start your personalized natural slimming journey — backed by tradition, powered by science.
+
+---
+
+**Languages**: English (Chinese coming soon)
+**Available on**: iPhone, iPad
+**Requires**: iOS 13.0 or later
+
+---
+
+如果你想要中文版（例如面向港澳台或内地市场的描述）我也可以写，或者需要短版 tagline/宣传视频脚本都可以提供。是否还需要这些？
+
+```
 
 
 
+```
+以下是 HerbalSlim 在 **苹果 App Store 的中文版本描述文案（简体中文）**，适用于港澳台及中国大陆市场，同时保持国际化、可信赖、科学导向的品牌风格。
+
+---
+
+## 📱 App Store 中文描述（简体版）
+
+**App 名称**：HerbalSlim – 天然瘦身辅助
+
+---
+
+**更轻盈的身体，从天然饮食补充开始。**
+
+HerbalSlim 是一款结合中医药古方与现代营养科学的个性化瘦身辅助 App。我们基于 300 多个经典中药减肥配方，提取关键有效成分，推荐可替代的天然食物与现代营养补充品，让您无需复杂的中药知识，也能安全高效地吃出健康和轻盈。
+
+---
+
+### ▶ 为什么选择 HerbalSlim？
+
+🌿 **传承 + 科学**
+我们将传统中药配方中的有效成分，精准匹配至现代可获取的天然食物（如柑橘类、苦瓜、绿茶等）或功能性补充品，效果有据可循，来源透明安全。
+
+🥗 **天然替代更安心**
+不再担心买不到、不知道怎么吃的中草药。用水果、蔬菜、坚果或提取物补充核心成分，日常易得，科学又自然。
+
+👩‍⚕️ **个性化健康方案**
+根据您的健康目标（如燃脂、调节代谢、改善肠道等）与饮食偏好，生成专属您的每日补充方案。
+
+🔔 **智能提醒 + 效果追踪**
+服用计划一目了然，定时提醒辅助坚持，效果记录帮助优化方案，支持每一次身体反馈。
+
+📚 **成分作用透明可查**
+每一种推荐成分，都附有详细解说：来源、传统用途、现代研究与适用人群，真正帮助您“吃明白”。
+
+🛒 **方便购买无烦恼**
+App 提供信赖的产品购买渠道推荐，让您轻松获取所需补充品或天然原料。
+
+---
+
+### 🌟 适合哪些用户？
+
+* 想通过天然方式轻松瘦身的你
+* 关注饮食健康与科学养生的你
+* 对中医配方感兴趣但不熟悉的人群
+* 营养顾问、教练等专业服务提供者
+
+---
+
+### 💬 用户好评：
+
+> “终于有人把中药成分讲明白，还告诉我西方可以吃什么替代。太实用了！”
+>
+> “不是单纯推荐吃药，而是真正根据我的体质和饮食习惯，给我定制补充方案。”
+>
+> “科学但不死板，友好又温和，推荐给所有想靠吃自然变瘦的人！”
+
+---
+
+立即下载 HerbalSlim，开启你的天然瘦身旅程 —— 传统智慧 × 营养科学，为你定制专属的健康生活方式。
+
+---
+
+**支持语言**：简体中文、英文
+**支持设备**：iPhone、iPad
+**系统要求**：iOS 13.0 及以上版本
+
+---
+
+如需港澳繁体版本、App Tagline（一句话宣传语）、或 App Store 宣传图/视频脚本文案，我也可以继续帮你写，是否需要？
+
+```
 
 
 
